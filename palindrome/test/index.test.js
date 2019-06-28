@@ -1,4 +1,4 @@
-const index = require('../palindrome');
+const index = require('../scripts');
 const test = require('tape');
 
 test('should equal', function (t) {

@@ -4,7 +4,7 @@
   "description": "palindrome checker",
   "main": "index.js",
   "scripts": {
-    "test": "node test/index.test.js",
+    "test": "node palindrome/test/index.test.js",
     "run": "node palindrome/index.js"
   },
   "author": "Joe Ho",
