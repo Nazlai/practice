@@ -12,6 +12,6 @@ test('should return equal', function (t) {
 })
 
 test('should return not equal', function (t) {
-  t.equal(index.palindrome('string'), true);
+  t.equal(index.palindrome('string'), false);
   t.end();
 })
