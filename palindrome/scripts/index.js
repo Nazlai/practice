@@ -1,5 +1,7 @@
 const R = require('ramda');
 
+const palindrome = () => { }
 
-
-module.exports = {};
+module.exports = {
+  palindrome: palindrome
+};
